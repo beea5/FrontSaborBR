@@ -22,7 +22,7 @@ npm install
 
 Para rodar o backend localmente, use:
 ```bash
-npm run dev
+npx expo start
 ```
 
 ## Backend
